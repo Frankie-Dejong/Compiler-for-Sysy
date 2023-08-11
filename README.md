@@ -7,4 +7,4 @@ We refer to the constructor of LLVM IR and implements optimizations below
 * DeadCode Delete
 * Mem2Reg
 
-Usage: `java compiler.jar -o main.ll main.C [-O1]`
+Usage: `java compiler.jar -o main.ll main.c [-O1]`
